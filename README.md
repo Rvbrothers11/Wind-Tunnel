@@ -68,12 +68,12 @@ My project is a small portable wind tunnel for my hotwheels and airfoils at home
             <td><a class="link-btn" href="https://www.flyrobo.in/digital-rotary-encoder-module">View Product</a></td>
         </tr>
         <tr>
-            <td>Teensy 4.1</td>
+            <td>Rasberry Pi Pico 2</td>
             <td>The microcontroller to control all electronics.</td>
             <td>1</td>
-            <td>$36.71</td>
+            <td>$6.70</td>
             <td>Robu.in</td>
-            <td><a class="link-btn" href="https://robu.in/product/teensy-4-1-development-board-with-headers">View Product</a></td>
+            <td><a class="link-btn" href="https://robu.in/product/raspberry-pi-pico-2-with-header?gad_campaignid=19974686076&gbraid=0AAAAADvLFWfVyAGZEKL71CuOVxoZmJnI9&gclid=Cj0KCQjw2MbPBhCSARIsAP3jP9xkbUp8uOaIMbqMKUM5CHOhFJMV7eG_69cg_ZV9InMmlQ36lslmvW8aApaJEALw_wcB&gad_source=1">View Product</a></td>
         </tr>
         <tr>
             <td>Ant Esports Carbonflow 120mm Case Fan</td>
