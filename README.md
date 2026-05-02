@@ -7,7 +7,8 @@ My project is a small portable wind tunnel for my hotwheels and airfoils at home
 <img width="1295" height="714" alt="image" src="https://github.com/user-attachments/assets/1c45acd4-d8ad-4697-b284-11a479105338" />
 <img width="728" height="676" alt="image" src="https://github.com/user-attachments/assets/5e7c233d-fdc5-4f02-b9a3-3ac9751570d0" />
 &nbsp;
-<img width="932" height="995" alt="image" src="https://github.com/user-attachments/assets/11c36ff9-c376-4177-b818-e5bada62bff5" />
+<img width="1025" height="1104" alt="image" src="https://github.com/user-attachments/assets/43ba0560-b03e-46e7-93d5-e6527dc3a2ae" />
+
 
 &nbsp;
 <!DOCTYPE html>
